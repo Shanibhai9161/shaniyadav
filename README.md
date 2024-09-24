@@ -1,2 +1,3 @@
 # shaniyadav
-this is my first Repository
+This is my first Repository
+Author - Shani Yadav
